@@ -1,0 +1,449 @@
+fileFormatVersion: 2
+guid: adc35658973db1a4d8ee21d8aa10441b
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Soldado
+    second: {fileID: 2100000, guid: 07fb93a80c6858e4b820a8080d860922, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vikingo2
+    second: {fileID: 2100000, guid: 2e62402e1fcc135448f4be26cc5b399d, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Centro
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L.Muslo
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R.Muslo
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L.Rodilla
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R.Rodilla
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L.Pie
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R.Pie
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Estomago
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cuello
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cabeza
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L.Brazo
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R.Brazo
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L.Antebrazo
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R.Antebrazo
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L.Mano
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R.Mano
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L.DedosPie
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R.DedosPie
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pecho
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Base7(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature
+      parentName: Base7(Clone)
+      position: {x: -0, y: -0.70399964, z: 0.3106806}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Centro
+      parentName: Armature
+      position: {x: 0, y: -0.0000000047683715, z: 0.037974127}
+      rotation: {x: 0.7071068, y: 0.000000084293724, z: 0.000000084293724, w: 0.7071068}
+      scale: {x: 1, y: 0.9999996, z: 0.9999996}
+    - name: Estomago
+      parentName: Centro
+      position: {x: 1.6543612e-26, y: 0.00528239, z: 0}
+      rotation: {x: -0, y: 0.00000011920921, z: -7.1054274e-15, w: 1}
+      scale: {x: 1, y: 1.0000012, z: 1.0000012}
+    - name: Pecho
+      parentName: Estomago
+      position: {x: 2.0103462e-17, y: 0.0068793115, z: -7.4505804e-11}
+      rotation: {x: -0.06918046, y: -0.000000118923616, z: -0.000000024740848, w: 0.99760425}
+      scale: {x: 1, y: 0.99999845, z: 0.99999845}
+    - name: Cuello
+      parentName: Pecho
+      position: {x: -1.5423673e-17, y: 0.006773757, z: 1.4901161e-10}
+      rotation: {x: -0.012567235, y: 0.00000011919985, z: -0.0000000044943955, w: 0.9999211}
+      scale: {x: 1, y: 0.9999993, z: 0.9999993}
+    - name: Cabeza
+      parentName: Cuello
+      position: {x: 1.8965377e-17, y: 0.0014234496, z: -1.4901161e-10}
+      rotation: {x: 0.11659888, y: -0.000000118396194, z: 0.000000041699014, w: 0.99317914}
+      scale: {x: 1, y: 1.0000011, z: 1.0000018}
+    - name: Cabeza_end
+      parentName: Cabeza
+      position: {x: -0, y: 0.015526986, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L.Brazo
+      parentName: Pecho
+      position: {x: -0.011676982, y: 0.0015262061, z: -0.0012396482}
+      rotation: {x: 0.054417644, y: -0.0037500567, z: 0.79001313, w: 0.6106587}
+      scale: {x: 1.0000062, y: 1.0000072, z: 1.0000006}
+    - name: L.Antebrazo
+      parentName: L.Brazo
+      position: {x: -4.2555584e-10, y: 0.008927335, z: 1.0710209e-10}
+      rotation: {x: -0.0008190869, y: -0.03438246, z: 0.014870923, w: 0.99929786}
+      scale: {x: 1.0000033, y: 1.0000025, z: 0.99999875}
+    - name: L.Mano
+      parentName: L.Antebrazo
+      position: {x: 8.063216e-10, y: 0.01227111, z: -2.6542693e-10}
+      rotation: {x: 0.004053571, y: 0.016737929, z: 0.00906281, w: 0.9998106}
+      scale: {x: 1.0000067, y: 1.0000046, z: 1.0000015}
+    - name: L.Dedos
+      parentName: L.Mano
+      position: {x: 1.5595275e-11, y: 0.010660333, z: 3.1810485e-10}
+      rotation: {x: -0.014874633, y: 0.016109778, z: 0.24032384, w: 0.9704451}
+      scale: {x: 1.0000033, y: 1.0000056, z: 1.0000006}
+    - name: L.Dedos_end
+      parentName: L.Dedos
+      position: {x: -0, y: 0.00488972, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L.Pulgar1
+      parentName: L.Mano
+      position: {x: -0.00061937363, y: 0.0029338782, z: 0.0035829514}
+      rotation: {x: 0.5121995, y: -0.06945472, z: 0.035108697, w: 0.8553334}
+      scale: {x: 1.0000029, y: 1.0000093, z: 0.999995}
+    - name: L.Pulgar2
+      parentName: L.Pulgar1
+      position: {x: -6.891787e-10, y: 0.003168212, z: 0.0000000016391277}
+      rotation: {x: -0.261974, y: 0.0011251641, z: -0.09619693, w: 0.96026796}
+      scale: {x: 0.999999, y: 0.9999686, z: 1.0000465}
+    - name: L.Pulgar2_end
+      parentName: L.Pulgar2
+      position: {x: -0, y: 0.0023444542, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R.Brazo
+      parentName: Pecho
+      position: {x: 0.011676982, y: 0.0015262061, z: -0.0012396427}
+      rotation: {x: 0.054417815, y: 0.0037499194, z: -0.79001313, w: 0.6106586}
+      scale: {x: 1.0000076, y: 1.0000085, z: 1.0000007}
+    - name: R.Antebrazo
+      parentName: R.Brazo
+      position: {x: -6.6117684e-10, y: 0.008927335, z: -1.6298145e-11}
+      rotation: {x: -0.0008191167, y: 0.03438244, z: -0.01487092, w: 0.9992978}
+      scale: {x: 1.0000062, y: 1.0000049, z: 0.9999997}
+    - name: R.Mano
+      parentName: R.Antebrazo
+      position: {x: 3.833702e-10, y: 0.012271108, z: 4.5634804e-10}
+      rotation: {x: 0.004053586, y: -0.016737903, z: -0.009062717, w: 0.9998106}
+      scale: {x: 1.0000049, y: 1.0000031, z: 1.0000024}
+    - name: R.Dedos
+      parentName: R.Mano
+      position: {x: 5.0505233e-10, y: 0.010660329, z: 6.344635e-11}
+      rotation: {x: 0.014874624, y: 0.016109813, z: 0.24032384, w: -0.9704451}
+      scale: {x: 1.0000024, y: 1.0000055, z: 1.0000005}
+    - name: R.Dedos_end
+      parentName: R.Dedos
+      position: {x: -0, y: 0.00488972, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R.Pulgar1
+      parentName: R.Mano
+      position: {x: 0.0006193728, y: 0.0029338722, z: 0.0035829511}
+      rotation: {x: -0.51219934, y: -0.06945478, z: 0.035108544, w: -0.85533345}
+      scale: {x: 1.0000025, y: 1.0000077, z: 0.9999957}
+    - name: R.Pulgar2
+      parentName: R.Pulgar1
+      position: {x: -9.918585e-10, y: 0.0031682146, z: 0.0000000020861626}
+      rotation: {x: 0.26197386, y: 0.0011253281, z: -0.096196696, w: -0.960268}
+      scale: {x: 0.9999974, y: 0.9999669, z: 1.0000451}
+    - name: R.Pulgar2_end
+      parentName: R.Pulgar2
+      position: {x: -0, y: 0.0023444542, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L.Muslo
+      parentName: Centro
+      position: {x: -0.005765296, y: -0.0049182633, z: -0.0007232671}
+      rotation: {x: -0.000083415536, y: 0.011447281, z: 0.9999181, w: -0.0057255356}
+      scale: {x: 1.0000026, y: 1.0000031, z: 0.9999965}
+    - name: L.Rodilla
+      parentName: L.Muslo
+      position: {x: -9.912992e-10, y: 0.009326381, z: -5.12955e-11}
+      rotation: {x: -0.07564568, y: -0.000018637338, z: -0.0056888824, w: 0.9971186}
+      scale: {x: 1.0000094, y: 1.000009, z: 0.99999887}
+    - name: L.Pie
+      parentName: L.Rodilla
+      position: {x: 2.9976946e-10, y: 0.015824078, z: -2.188608e-10}
+      rotation: {x: 0.74097836, y: -0.000000046719826, z: -0.00051718985, w: 0.67152876}
+      scale: {x: 1.000007, y: 1.0000082, z: 1.0000035}
+    - name: L.DedosPie
+      parentName: L.Pie
+      position: {x: -5.601123e-10, y: 0.0070493445, z: -5.160109e-10}
+      rotation: {x: 0.0019919574, y: -6.320633e-11, z: -0.0000013898449, w: 0.9999981}
+      scale: {x: 1.0000132, y: 1.0000076, z: 1.0000054}
+    - name: L.DedosPie_end
+      parentName: L.DedosPie
+      position: {x: -0, y: 0.004058235, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R.Muslo
+      parentName: Centro
+      position: {x: 0.005765296, y: -0.0049182633, z: -0.0007232671}
+      rotation: {x: 0.000083161984, y: 0.011447281, z: 0.9999181, w: 0.0057255323}
+      scale: {x: 1.0000032, y: 1.0000042, z: 0.9999965}
+    - name: R.Rodilla
+      parentName: R.Muslo
+      position: {x: 9.912992e-10, y: 0.009326381, z: -5.12955e-11}
+      rotation: {x: -0.07564568, y: 0.000018622817, z: 0.0056888754, w: 0.9971186}
+      scale: {x: 1.0000116, y: 1.0000126, z: 0.9999994}
+    - name: R.Pie
+      parentName: R.Rodilla
+      position: {x: -2.9976946e-10, y: 0.015824078, z: -2.188608e-10}
+      rotation: {x: 0.74097836, y: 0.000000047478345, z: 0.0005171897, w: 0.67152876}
+      scale: {x: 1.0000064, y: 1.0000086, z: 1.0000006}
+    - name: R.DedosPie
+      parentName: R.Pie
+      position: {x: 5.601123e-10, y: 0.0070493445, z: -5.160109e-10}
+      rotation: {x: 0.0019919574, y: -6.333387e-10, z: 0.0000013904832, w: 0.9999981}
+      scale: {x: 1.0000134, y: 1.0000076, z: 1.000007}
+    - name: R.DedosPie_end
+      parentName: R.DedosPie
+      position: {x: -0, y: 0.004058235, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Casco
+      parentName: Base7(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Hacha
+      parentName: Base7(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Vikingo
+      parentName: Base7(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
